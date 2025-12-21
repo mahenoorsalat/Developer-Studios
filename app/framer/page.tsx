@@ -11,7 +11,7 @@ import {
   useMotionTemplate,
   useInView
 } from "framer-motion";
-import { ReactLenis, useLenis } from '@studio-freight/react-lenis'
+import { ReactLenis, useLenis } from 'lenis/react'
 import { 
   ArrowRight, Menu, X, Check, Plus, Minus, 
   Twitter, Linkedin, Instagram, ArrowUpRight,

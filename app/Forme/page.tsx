@@ -9,7 +9,7 @@ import {
   useSpring,
   AnimatePresence,
 } from "framer-motion";
-import { ReactLenis } from "@studio-freight/react-lenis";
+import { ReactLenis } from "lenis/react";
 import { ArrowUpRight, Check, Menu, MoveRight, Play, X } from "lucide-react";
 
 // --- SHARED UTILS ---

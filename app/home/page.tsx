@@ -10,7 +10,7 @@ import {
   useMotionTemplate,
   AnimatePresence,
 } from "framer-motion";
-import { ReactLenis } from "@studio-freight/react-lenis";
+import { ReactLenis } from "lenis/react";
 import { ArrowUpRight, Plus, Minus, MoveRight, ArrowDown } from "lucide-react";
 
 // --- UTILS ---
